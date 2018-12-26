@@ -1,7 +1,11 @@
 1) What are three interesting facts about you?
-
+-I love to read
+-I love to listen to kpop music
+-I'm a short person
 
 2) What's your favorite song and movie?
-
+"Shape of You" by Ed Sheeran
+I don't have a favorite movie
 
 3) Why do you want to learn how to program?
+I want to do well in CS61A next semester, and this will in turn help me in my major.
