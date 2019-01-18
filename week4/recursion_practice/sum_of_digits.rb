@@ -2,11 +2,11 @@
 # Assume inputs are positive integers
 
 def sum_of_digits(n)
-  if ___________
+  if n % 10 == 0
     return 0
   else
-    return _______________________ # recursive call
+    return n % 10 + sum_of_digits(n / 10) # recursive call
   end
 end
 
-puts(sum_of_digits(14672)) # expected: 20
+# puts(sum_of_digits(14672)) # expected: 20
